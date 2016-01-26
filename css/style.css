@@ -2,9 +2,22 @@
   max-width: 100%;
   height: auto;
   display: block;
+  padding: none;
 
 }
 
 body {
   background-color: black;
+}
+
+.colone-image {
+  padding: 0;
+}
+.text{
+  padding:3px;
+  color: white;
+
+}
+.text span{
+  font-weight: bolder;
 }
