@@ -3,21 +3,86 @@
   height: auto;
   display: block;
   padding: none;
-
 }
-
 body {
   background-color: black;
 }
-
 .colone-image {
   padding: 0;
 }
 .text{
   padding:3px;
   color: white;
-
 }
 .text span{
   font-weight: bolder;
+}
+.text {
+  font-weight: lighter;
+}
+.colonne-img{
+  padding:0;
+}
+#menu-gauche{
+  background-color: black;
+}
+#list-menu a {
+  color:white;
+  text-decoration: none;
+}
+#list-menu{
+  list-style: none;
+  line-height: 2em;
+}
+#fondblanc {
+  background-color: white;
+  padding: 25px 0;
+}
+.ligne2 {
+  height: 300px;
+}
+.autour {
+  margin: 30px;
+}
+.menu-colone li{
+  list-style: none;
+}
+.menu-colone a{
+  text-decoration: none;
+}
+.text-bas{
+  color: white;
+  line-height: 4em;
+  font-size: 11px;
+}
+.menu-du-haut{
+  list-style: none;
+
+}
+.menu-du-haut li a{
+  /*margin-left: 15px;*/
+  text-decoration: none;
+  color:white;
+}
+
+
+.hauteur-bandeau{
+  line-height: 3em;
+}
+
+#titre-bandeau {
+  color: white;
+}
+
+.search {
+  background-color: green;
+}
+
+/*.search a {
+  width: 30px;
+}*/
+
+.menu-du-haut li {
+  text-align: center;
+  width: 70px;
 }
